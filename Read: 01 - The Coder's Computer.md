@@ -1,4 +1,4 @@
-#The Command Line
+# The Command Line
 
 A command line, or terminal, is a text based interface to the system.
 You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
@@ -32,32 +32,33 @@ To make a file or directory hidden all you need to do is create the file or dire
 
 
 
-#Terminal commands and options used with it 
+#  Terminal commands and options used with it 
 
 echo $SHELL  === > > > If you would like to know which shell you are using you may use
 pwd === > > > which stands for Print Working Directory, It tells you what your current or present working directory is.
 ls === > > > It's short for list, used to know what is there in the working directory.
 ls -l === > > > indicates we are going to do a long listing, long listing means:
-	1. First character indicates whether it is a normal file ( - ) or directory ( d )
-	2. Next 9 characters are permissions for the file or directory (we'll learn more about them in section 6).
-	3. The next field is the number of blocks (don't worry too much about this).
-	4. The next field is the owner of the file or directory (ryan in this case).
-	5. The next field is the group the file or directory belongs to (users in this case).
-	6. Following this is the file size.
-	7. Next up is the file modification time.
-	8. Finally we have the actual name of the file or directory.
+
+1. First character indicates whether it is a normal file ( - ) or directory ( d )
+2. Next 9 characters are permissions for the file or directory (we'll learn more about them in section 6).
+3. The next field is the number of blocks (don't worry too much about this).
+4. The next field is the owner of the file or directory (ryan in this case).
+5. The next field is the group the file or directory belongs to (users in this case).
+6. Following this is the file size.
+7. Next up is the file modification time.
+8. Finally we have the actual name of the file or directory.
 ls /etc === > > >  When we do this it tells ls not to list our current directory but instead to list that directories contents.
 ls -a === > > > it does show hidden files and directories.
 cd === > > > In order to move around in the system, If you run the command cd without any arguments then it will always take you back to your home directory.
 file ==== > > > to know what type a file is, image, text ... etc 
 
 
-#Shortcuts
+# Shortcuts
 You can traverse your commands history using the up and down arrow keys.
 Here are some more building blocks you may use to help build your paths:
-	1. ~ (tilde) - This is a shortcut for your home directory. eg, if your home directory is /home/ryan then you 	could refer to the directory Documents with the path /home/ryan/Documents or ~/Documents
-	2. . (dot) - This is a reference to your current directory. eg in the example above we referred to Documents 	on line 4 with a relative path. It could also be written as ./Documents (Normally this extra bit is not 	required but in later sections we will see where it comes in handy).
-	3. .. (dotdot)- This is a reference to the parent directory. You can use this several times in a path to keep 	going up the hierarchy. eg if you were in the path /home/ryan you could run the command ls ../../ and this 	would do a listing of the root directory.
+1. ~ (tilde) - This is a shortcut for your home directory. eg, if your home directory is /home/ryan then you 	could refer to the directory Documents with the path /home/ryan/Documents or ~/Documents
+2. . (dot) - This is a reference to your current directory. eg in the example above we referred to Documents 	on line 4 with a relative path. It could also be written as ./Documents (Normally this extra bit is not 	required but in later sections we will see where it comes in handy).
+3. .. (dotdot)- This is a reference to the parent directory. You can use this several times in a path to keep 	going up the hierarchy. eg if you were in the path /home/ryan you could run the command ls ../../ and this 	would do a listing of the root directory.
 
 If you use Tab Completion before encountering the space in the directory name then the terminal will automatically escape any spaces in the name for you.
 
