@@ -6,7 +6,7 @@ Here is my GitHub portfolio [page](https://abdullah-alsawalmeh.github.io/reading
 ## reading-notes-repo
 Here you can find my Readings repo, it is mainly for summarizing my learning journey in programming, I hope you could find some useful infos &lt;3
 
-*** I just want to mention that I am following the growth mindset lifestyle, here a small defintion of it***
+***I just want to mention that I am following the growth mindset lifestyle, here a small defintion of it***
 > People who have a growth mindset believe that they can get smarter, more intelligent, and more talented through putting in time and effort. 
 
 I need to stay all along having the growth mindset, and here are some reminders that I keep remind myself to stay on the growth mindset: 
