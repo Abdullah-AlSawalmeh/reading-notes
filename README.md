@@ -20,6 +20,6 @@ I need to stay all along having the growth mindset, and here are some reminders 
 
 | Lab/Read        | Link       |
 | ------------- |:-------------:|
-| Read: 01      | [The Coder's Computer](https://abdullah-alsawalmeh.github.io/reading-notes/Read: 01 - The Coder's Computer))|
+| Read: 01      | [The Coder's Computer](https://abdullah-alsawalmeh.github.io/reading-notes/Read: 01 - The Coder's Computer)|
 | Lab: 02a     | [Growth Mindset](https://abdullah-alsawalmeh.github.io/reading-notes/Lab: 02a_Learning_Markdown _Growth_mindset)|  
 
