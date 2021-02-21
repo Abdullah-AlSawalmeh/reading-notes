@@ -1,5 +1,5 @@
 # Brief introductry about the author: 
-**Abdullah Al Sawalmeh**, He is a software developer and having an MS.c degree in Mechatronics engineering, He is a Co-founder & CEO of Bkum.co and CTO of dalilk.com, he worked as a customer support agent for Ryanair airlines in Hungary.
+**Abdullah Al Sawalmeh**, He is a software developer and having an MS.c degree in Mechatronics engineering from Universty of Debrecen, Hungary, He is a Co-founder & CEO of Bkum.co and CTO of dalilk.com, he worked as a customer support agent for Ryanair airlines in Hungary.
 
 Here is my GitHub portfolio [page](https://abdullah-alsawalmeh.github.io/reading-notes/README)
 
@@ -98,8 +98,8 @@ The main difference between the two mindsets is the belief in the permanence of 
 
 So, I need to stay all along having the growth mindset, and here are some reminders that I keep remind myself to stay on the growth mindset: 
 
-1. If I felt that I am going to give up on my dream, I keep remoinding myself of how I get to this point, what achievements I have done during my life.
-2. If I felt that achiveing the goal that I am working on is too hard, I keep reminding myself that another person in this world have this goal, so surly I can do it.
+1. If I felt that I am going to give up on my dream, I keep reminding myself of how I get to this point, what achievements I have done during my life.
+2. If I felt that achieving the goal that I am working on is too hard, I keep reminding myself that another person in this world have this goal, so surly I can do it.
 3. If I felt that I am not good at doing what I am doing, I keep reminding myself that this is easy and I am as a human being, I can do whatever I want.
 
 
