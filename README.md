@@ -16,7 +16,7 @@ I need to stay all along having the growth mindset, and here are some reminders 
 3. If I felt that I am not good at doing what I am doing, I keep reminding myself that this is easy and I am as a human being, I can do whatever I want.
 
 **Table of contents**
-
-[Read: 01 - The Coder's Computer](https://abdullah-alsawalmeh.github.io/reading-notes/Read: 01 - The Coder's Computer)
-
-[Lab: 02a_Learning_Markdown _Growth_mindset](https://abdullah-alsawalmeh.github.io/reading-notes/Lab: 02a_Learning_Markdown _Growth_mindset)
+"Lab/Read | Link
+------------ | -------------
+Read: 01 | [The Coder's Computer](https://abdullah-alsawalmeh.github.io/reading-notes/Read: 01 - The Coder's Computer)
+Lab: 02a | Learning_Markdown _Growth_mindset](https://abdullah-alsawalmeh.github.io/reading-notes/Lab: 02a_Learning_Markdown _Growth_mindset)"
