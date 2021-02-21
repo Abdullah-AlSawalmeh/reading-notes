@@ -1,12 +1,14 @@
 # Brief introductry about the author: 
-Abdullah Al Sawalmeh, He is a software developer and having an MS.c degree in Mechatronics engineering, He is a Co-founder & CEO of Bkum.co and CTO of dalilk.com, he worked as a customer support agent for Ryanair airlines in Hungary.
+**Abdullah Al Sawalmeh**, He is a software developer and having an MS.c degree in Mechatronics engineering, He is a Co-founder & CEO of Bkum.co and CTO of dalilk.com, he worked as a customer support agent for Ryanair airlines in Hungary.
+
+Here is my GitHub portfolio [page](https://abdullah-alsawalmeh.github.io/reading-notes/README)
 
 ## reading-notes-repo
 Here you can find my Readings repo, it is mainly for summarizing my learning journey in programming, I hope you could find some useful infos &lt;3
 
-### Read: 01 - The Coder's Computer.md
+## Read: 01 - The Coder's Computer.md
 
-#### The Command Line
+### The Command Line
 
 A command line, or terminal, is a text based interface to the system.
 You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
@@ -40,7 +42,7 @@ To make a file or directory hidden all you need to do is create the file or dire
 
 
 
-####  Terminal commands and options used with it 
+###  Terminal commands and options used with it 
 
 echo $SHELL  === > > > If you would like to know which shell you are using you may use
 pwd === > > > which stands for Print Working Directory, It tells you what your current or present working directory is.
@@ -61,7 +63,7 @@ cd === > > > In order to move around in the system, If you run the command cd wi
 file ==== > > > to know what type a file is, image, text ... etc 
 
 
-#### Shortcuts
+### Shortcuts
 You can traverse your commands history using the up and down arrow keys.
 Here are some more building blocks you may use to help build your paths:
 1. ~ (tilde) - This is a shortcut for your home directory. eg, if your home directory is /home/ryan then you 	could refer to the directory Documents with the path /home/ryan/Documents or ~/Documents
