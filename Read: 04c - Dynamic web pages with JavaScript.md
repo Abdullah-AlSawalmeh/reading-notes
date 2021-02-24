@@ -19,3 +19,5 @@ This is where we can change how the page behaves, adding interact ivity. We will
 Keeping it separate means that the page still works if the user cannot load or run the JavaScript. 
 You can also reuse the code on severa l pages (making the site faster to load and easier to maintain).
 
+Check this page please:
+https://abdullah-alsawalmeh.github.io/reading-notes/Read:%2004c%20-%20Dynamic%20web%20pages%20with%20JavaScript/index.html
