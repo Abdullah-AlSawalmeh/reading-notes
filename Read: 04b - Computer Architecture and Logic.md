@@ -1,0 +1,12 @@
+# What is a computer?
+
+A computer is an electronic machine that processes information—in other words, an information processor: it takes in raw information (or data) at one end, stores it until it's ready to work on it, chews and crunches it for a bit, then spits out the results at the other end. All these processes have a name. Taking in information is called input, storing information is better known as memory (or storage), chewing information is also known as processing, and spitting out results is called output.
+
+Imagine if a computer were a person. Suppose you have a friend who's really good at math. She is so good that everyone she knows posts their math problems to her.  Each morning, she goes to her letterbox and finds a pile of new math problems waiting for her attention. She piles them up on her desk until she gets around to looking at them. Each afternoon, she takes a letter off the top of the pile, studies the problem, works out the solution, and scribbles the answer on the back. She puts this in an envelope addressed to the person who sent her the original problem and sticks it in her out tray, ready to post. Then she moves to the next letter in the pile. You can see that your friend is working just like a computer. Her letterbox is her input; the pile on her desk is her memory; her brain is the processor that works out the solutions to the problems; and the out tray on her desk is her output.
+
+Once you understand that computers are about input, memory, processing, and output, all the junk on your desk makes a lot more sense:
+
+* Input: Your keyboard and mouse, for example, are just input units—ways of getting information into your computer that it can process. If you use a microphone and voice recognition software, that's another form of input.
+* Memory/storage: Your computer probably stores all your documents and files on a hard drive: a huge magnetic memory. But smaller, computer-based devices like digital cameras and cellphones use other kinds of storage such as flash memory cards.
+* Processing: Your computer's processor (sometimes known as the central processing unit) is a microchip buried deep inside. It works amazingly hard and gets incredibly hot in the process. That's why your computer has a little fan blowing away—to stop its brain from overheating!
+* Output: Your computer probably has an LCD screen capable of displaying high-resolution (very detailed) graphics, and probably also stereo loudspeakers. You may have an inkjet printer on your desk too to make a more permanent form of output.
