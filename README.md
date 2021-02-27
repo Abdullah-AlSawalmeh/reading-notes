@@ -35,5 +35,9 @@ I need to stay all along having the growth mindset, and here are some reminders 
 
 
 
+| Lab/Read        | Link       |
+| ------------- |:-------------:|
+| Read: 102      | [Click here](https://abdullah-alsawalmeh.github.io/reading-notes/Code 102 Reading Notes/)| 
 
+| Read: 201      | [Click here](https://abdullah-alsawalmeh.github.io/reading-notes/Code 201 Reading Notes/)| 
 
