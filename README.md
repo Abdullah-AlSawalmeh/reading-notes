@@ -21,7 +21,7 @@ I need to stay all along having the growth mindset, and here are some reminders 
 | Lab/Read        | Link       |
 | ------------- |:-------------:|
 | Read: 01      | [The Coder's Computer](https://abdullah-alsawalmeh.github.io/reading-notes/Code 102 Reading Notes/Read: 01 - The Coder's Computer)| 
-| Read: 02a     | [Learning Markdown](https://abdullah-alsawalmeh.github.io/reading-notes/Read: 02a - Learning Markdown)|  
+| Read: 02a     | [Learning Markdown](https://abdullah-alsawalmeh.github.io/reading-notes/Code 102 Reading Notes/Read: 02a - Learning Markdown)|  
 | Read: 02b     | [Revisions and the Cloud](https://abdullah-alsawalmeh.github.io/reading-notes/Read: 02b - Revisions and the Cloud)|  
 | Read: 03     | [Structure web pages with HTML](https://abdullah-alsawalmeh.github.io/reading-notes/Read: 03 - Structure web pages with HTML)| 
 | Read: 04     | [Programming with JavaScript](https://abdullah-alsawalmeh.github.io/reading-notes/Read: 04 - Programming with JavaScript)| 
