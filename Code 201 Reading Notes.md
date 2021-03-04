@@ -9,7 +9,7 @@
 | Read: 02      | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://abdullah-alsawalmeh.github.io/reading-notes/Code 201 Reading Notes/Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions)| 
 | Read: 03      | [HTML Lists, CSS Boxes, JS Control Flow](https://abdullah-alsawalmeh.github.io/reading-notes/Code 201 Reading Notes/Read: 03 - HTML Lists, CSS Boxes, JS Control Flow)| 
 | Read: 04      | [HTML Links, CSS Layout, JS Functions](https://abdullah-alsawalmeh.github.io/reading-notes/Code 201 Reading Notes/Read: 04 - HTML Links, CSS Layout, JS Functions)| 
-
+| Read: 05      | [HTML Images; CSS Color & Text](https://abdullah-alsawalmeh.github.io/reading-notes/Code 201 Reading Notes/Read: 05 - HTML Images; CSS Color & Text)| 
 
 
 
