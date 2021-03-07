@@ -10,6 +10,12 @@
 | Read: 03      | [HTML Lists, CSS Boxes, JS Control Flow](https://abdullah-alsawalmeh.github.io/reading-notes/Code 201 Reading Notes/Read: 03 - HTML Lists, CSS Boxes, JS Control Flow)| 
 | Read: 04      | [HTML Links, CSS Layout, JS Functions](https://abdullah-alsawalmeh.github.io/reading-notes/Code 201 Reading Notes/Read: 04 - HTML Links, CSS Layout, JS Functions)| 
 | Read: 05      | [HTML Images; CSS Color & Text](https://abdullah-alsawalmeh.github.io/reading-notes/Code 201 Reading Notes/Read: 05 - HTML Images; CSS Color & Text)| 
+| Read: 06      | [JS Object Literals; The DOM](https://abdullah-alsawalmeh.github.io/reading-notes/Code 201 Reading Notes/Read: 06 - JS Object Literals; The DOM)| 
+| Read: 07      | [HTML Tables; JS Constructor Functions](https://abdullah-alsawalmeh.github.io/reading-notes/Code 201 Reading Notes/Read: 07 - HTML Tables; JS Constructor Functions)|
+
+
+
+
 
 
 
