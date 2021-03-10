@@ -12,6 +12,9 @@
 | Read: 05      | [HTML Images; CSS Color & Text](https://abdullah-alsawalmeh.github.io/reading-notes/Code 201 Reading Notes/Read: 05 - HTML Images; CSS Color & Text)| 
 | Read: 06      | [JS Object Literals; The DOM](https://abdullah-alsawalmeh.github.io/reading-notes/Code 201 Reading Notes/Read: 06 - JS Object Literals; The DOM)| 
 | Read: 07      | [HTML Tables; JS Constructor Functions](https://abdullah-alsawalmeh.github.io/reading-notes/Code 201 Reading Notes/Read: 07 - HTML Tables; JS Constructor Functions)|
+| Read: 08      | [More CSS Layout](https://abdullah-alsawalmeh.github.io/reading-notes/Code 201 Reading Notes/Read: 08 - More CSS Layout)|
+| Read: 09      | [Forms and Events](https://abdullah-alsawalmeh.github.io/reading-notes/Code 201 Reading Notes/Read: 09 - Forms and Events)|
+
 
 
 
