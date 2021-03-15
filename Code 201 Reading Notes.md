@@ -16,6 +16,8 @@
 | Read: 09      | [Forms and Events](https://abdullah-alsawalmeh.github.io/reading-notes/Code 201 Reading Notes/Read: 09 - Forms and Events)|
 | Read: 10      | [JS Debugging](https://abdullah-alsawalmeh.github.io/reading-notes/Code 201 Reading Notes/Read: 10 - JS Debugging)|
 | Read: 11      | [Read: 11 - Assorted Topics](https://abdullah-alsawalmeh.github.io/reading-notes/Code 201 Reading Notes/Read: 11 - Assorted Topics)|
+| Read: 12      | [Read: 12 - Docs for the HTML Element & Chart](https://abdullah-alsawalmeh.github.io/reading-notes/Code 201 Reading Notes/Read: 12 - Docs for the HTML Element & Chart)|
+
 
 
 
