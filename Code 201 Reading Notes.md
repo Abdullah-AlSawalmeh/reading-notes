@@ -18,10 +18,9 @@
 | Read: 11      | [Read: 11 - Assorted Topics](https://abdullah-alsawalmeh.github.io/reading-notes/Code 201 Reading Notes/Read: 11 - Assorted Topics)|
 | Read: 12      | [Read: 12 - Docs for the HTML Element & Chart](https://abdullah-alsawalmeh.github.io/reading-notes/Code 201 Reading Notes/Read: 12 - Docs for the HTML Element & Chart)|
 | Read: 13      | [Local Storage](https://abdullah-alsawalmeh.github.io/reading-notes/Code 201 Reading Notes/Read: 13 - Local Storage)|
+| Read: 14a      | [CSS Transforms, Transitions, and Animations](https://abdullah-alsawalmeh.github.io/reading-notes/Code 201 Reading Notes/Read: 14a - CSS Transforms, Transitions, and Animations)|
+| Read: 14b      | [What Google Learned About Teams](https://abdullah-alsawalmeh.github.io/reading-notes/Code 201 Reading Notes/Read: 14b - What Google Learned About Teams)|
 
-
-
-Read: 13 - Local Storage
 
 
 
