@@ -4,4 +4,6 @@
 
 | Lab/Read |                                              Link                                              |
 | -------- | :--------------------------------------------------------------------------------------------: |
-| Read: 01 | [in-progress](https://abdullah-alsawalmeh.github.io/reading-notes/Code 301 Reading Notes/test) |
+| Read: 01 | [SMACSS and Responsive Web Design](https://abdullah-alsawalmeh.github.io/reading-notes/Code 301 Reading Notes/Read: 01 - SMACSS and Responsive Web Design) |
+
+
