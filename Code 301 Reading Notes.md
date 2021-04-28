@@ -13,3 +13,4 @@
 | Read: 07 |                                [APIs continued](https://abdullah-alsawalmeh.github.io/reading-notes/Code 301 Reading Notes/Read: 07 - APIs continued)                                |
 | Read: 08 |                                           [SQL](https://abdullah-alsawalmeh.github.io/reading-notes/Code 301 Reading Notes/Read: 08 - SQL)                                           |
 | Read: 09 |                                   [Refactoring](https://abdullah-alsawalmeh.github.io/reading-notes/Code 301 Reading Notes/Read: 09 - Refactoring)                                   |
+| Read: 10 |                  [The Call Stack and Debugging](https://abdullah-alsawalmeh.github.io/reading-notes/Code 301 Reading Notes/Read: 10 - The Call Stack and Debugging)                  |
