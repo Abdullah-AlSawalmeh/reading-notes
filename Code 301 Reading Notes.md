@@ -16,4 +16,4 @@
 | Read: 10 |                  [The Call Stack and Debugging](https://abdullah-alsawalmeh.github.io/reading-notes/Code 301 Reading Notes/Read: 10 - The Call Stack and Debugging)                  |
 | Read: 11 |                                           [EJS](https://abdullah-alsawalmeh.github.io/reading-notes/Code 301 Reading Notes/Read: 11 - EJS)                                           |
 | Read: 12 |                                    [Components](https://abdullah-alsawalmeh.github.io/reading-notes/Code 301 Reading Notes/Read: 12 - Components)                                    |
-| Read: 13 |                                 [Update/Delete](https://abdullah-alsawalmeh.github.io/reading-notes/Code 301 Reading Notes/Read: 13 - Update/Delete)                                 |
+| Read: 13 |                                 [Update/Delete](https://abdullah-alsawalmeh.github.io/reading-notes/Code 301 Reading Notes/Read: 13 - Update-Delete)                                 |
