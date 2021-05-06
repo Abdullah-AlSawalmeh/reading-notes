@@ -18,3 +18,4 @@
 | Read: 12 |                                    [Components](https://abdullah-alsawalmeh.github.io/reading-notes/Code 301 Reading Notes/Read: 12 - Components)                                    |
 | Read: 13 |                                 [Update/Delete](https://abdullah-alsawalmeh.github.io/reading-notes/Code 301 Reading Notes/Read: 13 - Update-Delete)                                 |
 | Read: 14 |                     [DB Normalization_Project Ideas & APIs](https://abdullah-alsawalmeh.github.io/reading-notes/Code 301 Reading Notes/Read: 13 - Update-Delete)                     |
+| Read: 15 |                       [Diversity and Inclusion](https://abdullah-alsawalmeh.github.io/reading-notes/Code 301 Reading Notes/Read: 15 - Diversity and Inclusion)                       |
