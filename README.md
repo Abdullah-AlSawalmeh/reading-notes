@@ -27,3 +27,6 @@ I need to stay all along having the growth mindset, and here are some reminders 
 | Readings: Code 301 | [Click here](https://abdullah-alsawalmeh.github.io/reading-notes/Code 301 Reading Notes)|
 
 | Readings: Code 401 | [Click here](https://abdullah-alsawalmeh.github.io/reading-notes/Code 401 - Advanced Software Development)|
+
+
+
