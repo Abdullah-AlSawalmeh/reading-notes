@@ -14,3 +14,4 @@
 | Read: 08 | [Class 08](https://abdullah-alsawalmeh.github.io/reading-notes/Code 401 - Advanced Software Development/Read: Class 08) |
 | Read: 09 | [Class 09](https://abdullah-alsawalmeh.github.io/reading-notes/Code 401 - Advanced Software Development/Read: Class 09) |
 | Read: 10 | [Class 10](https://abdullah-alsawalmeh.github.io/reading-notes/Code 401 - Advanced Software Development/Read: Class 10) |
+| Read: 11 | [Class 11](https://abdullah-alsawalmeh.github.io/reading-notes/Code 401 - Advanced Software Development/Read: Class 11) |
