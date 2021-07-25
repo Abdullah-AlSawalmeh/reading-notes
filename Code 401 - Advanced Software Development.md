@@ -29,3 +29,4 @@
 | Read: 29 | [Class 29](https://abdullah-alsawalmeh.github.io/reading-notes/Code 401 - Advanced Software Development/Read: Class 29) |
 | Read: 30 | [Class 30](https://abdullah-alsawalmeh.github.io/reading-notes/Code 401 - Advanced Software Development/Read: Class 30) |
 | Read: 31 | [Class 31](https://abdullah-alsawalmeh.github.io/reading-notes/Code 401 - Advanced Software Development/Read: Class 31) |
+| Read: 32 | [Class 32](https://abdullah-alsawalmeh.github.io/reading-notes/Code 401 - Advanced Software Development/Read: Class 32) |
