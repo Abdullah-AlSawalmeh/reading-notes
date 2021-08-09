@@ -38,3 +38,5 @@
 | Read: 38 | [Class 38](https://abdullah-alsawalmeh.github.io/reading-notes/Code 401 - Advanced Software Development/Read: Class 38) |
 | Read: 39 | [Class 39](https://abdullah-alsawalmeh.github.io/reading-notes/Code 401 - Advanced Software Development/Read: Class 39) |
 | Read: 41 | [Class 41](https://abdullah-alsawalmeh.github.io/reading-notes/Code 401 - Advanced Software Development/Read: Class 41) |
+| Read: 42 | [Class 42](https://abdullah-alsawalmeh.github.io/reading-notes/Code 401 - Advanced Software Development/Read: Class 42) |
+| Read: 43 | [Class 43](https://abdullah-alsawalmeh.github.io/reading-notes/Code 401 - Advanced Software Development/Read: Class 43) |
